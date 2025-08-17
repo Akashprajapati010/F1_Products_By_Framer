@@ -59,7 +59,7 @@ Focused on **UX clarity**, **structural design**, and **smooth navigation** acro
 ---
 
 ## 🚀 How to View the Prototype
-1. Visit the **Framer Project Link** → `[Add your link here]`
+1. Visit the **Framer Project Link** → `[https://f1akash.framer.website/]`
 2. Navigate between pages using:
    - Navbar links
    - Buttons (e.g., View All, Category cards)
